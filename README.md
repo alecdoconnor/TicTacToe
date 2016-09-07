@@ -8,10 +8,15 @@ It can be played player vs. player or player vs. computer. There are two modes w
 Fun facts!
 - Enable the detailed analysis on hard mode to see why Master Splinter cannot lose.
 - It's possible to change the color of the game board
--  - Pick your favorite color in the 'New Game' menu
+  * Pick your favorite color in the 'New Game' menu
+
+> "I love that you had fun with this project, I'm going to use it as an example in future classes." ~ Course Professor
 
 Begin a new game:
+
 ![New Game](/Technical Report/images/UI/1.PNG?raw=true "New Game")
 
+
 The game play looks a little like this:
+
 ![Game in Progress with 'Detailed Analysis' Enabled.](/Technical Report/images/UI/2.PNG?raw=true)
