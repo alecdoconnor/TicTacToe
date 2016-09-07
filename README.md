@@ -7,3 +7,6 @@ It can be played player vs. player or player vs. computer. There are two modes w
 
 Fun fact!
 - Enable the detailed analysis on hard mode to see why Master Splinter cannot lose.
+
+![New Game](/Technical Report/images/UI/1.PNG?raw=true "New Game")
+![Game in Progress with 'Detailed Analysis' Enabled.](/relative/path/to/img.jpg?raw=true)
